@@ -1,0 +1,2 @@
+# sincro
+Proyecto Sincro
